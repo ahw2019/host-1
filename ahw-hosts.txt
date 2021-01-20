@@ -11,6 +11,7 @@
 0.0.0.0	ade.googlesyndication.com
 0.0.0.0	id.google.de
 0.0.0.0 google-analytics.com
+
 # MS
 0.0.0.0	vortex.data.microsoft.com
 0.0.0.0	vortex-win.data.microsoft.com
