@@ -1,5 +1,8 @@
 # Created by AHW
 
+# Misc
+0.0.0.0 revcontent.com
+
 # Google	
 0.0.0.0	www.googleadservices.com
 0.0.0.0	googleads.g.doubleclick.net
